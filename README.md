@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/uzairabdullah365b1b3a9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:uzairabdullah272004@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=uzairabdullah272004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
   <a href="https://uzairabdullah272004-svg.github.io" target="_blank">
