@@ -46,11 +46,3 @@
 | <a href="https://github.com/uzairabdullah272004-svg/blood-donation-system" target="_blank"> Blood Donation System</a> | Full Stack Dev<br>Complete platform connecting donors/hospitals with real-time inventory and normalized SQL schema. | `Node.js` `PostgreSQL` `Express` |
 | <a href="https://github.com/uzairabdullah272004-svg/cpp-snake-raylib" target="_blank"> Snake Mania</a> | C++ Developer<br>Performance-optimized game loop demonstrating memory management and object lifecycles. | `C++` `Raylib` `OOP` |
 | <a href="https://github.com/uzairabdullah272004-svg/cpp-library-system" target="_blank"> Library Management System</a> | C++ Developer<br>Console-based system demonstrating OOP principles, the Singleton Design Pattern, and JSON data persistence. | `C++` `OOP` `JSON` `Patterns` |
-
----
-
-## 📈 Contributions
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uzairabdullah272004-svg&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairabdullah272004-svg&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
-</div>
