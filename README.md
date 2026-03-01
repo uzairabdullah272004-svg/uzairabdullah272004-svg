@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Assalam o Alikum, I'm Uzair Abdullah 👋</h1>
+  <h1>Assalam o Alikum, I'm Uzair Abdullah</h1>
   <h3>BSSE Student @ ITU | Backend, Machine Learning & Cloud Computing</h3>
   
   <p>
@@ -36,15 +36,15 @@
 ### 🏆 Cloud & AI
 | Project | Role | Tech Stack |
 | :--- | :--- | :--- |
-| <a href="https://github.com/uzairabdullah272004-svg/hostel-management-aws" target="_blank">**☁️ Cloud-Native HMS**</a> | **Cloud Architect**<br>Migrated legacy system to serverless AWS Fargate + RDS. Solved scaling issues with stateless Multi-AZ design. | `AWS ECS` `Docker` `Flask` `RDS` |
-| <a href="https://github.com/uzairabdullah272004-svg/vgg16-tb-detection-Transfer-Learning" target="_blank">**🩺 VGG16 TB Detection**</a> | **AI Engineer**<br>High-performance medical image classifier (98.53% acc) using Transfer Learning and Float16 Mixed Precision. | `Python` `TensorFlow` `CNN` `VGG16` |
-| <a href="https://github.com/uzairabdullah272004-svg/opencv-omr-retrospective" target="_blank">**⭕ OMR Grader (Case Study)**</a> | **Engineer**<br>A retrospective on why "Rule-Based" Computer Vision failed in production, leading to my transition to Deep Learning. | `OpenCV` `Python` `Logic` |
+| <a href="https://github.com/uzairabdullah272004-svg/hostel-management-aws" target="_blank">** Cloud-Native HMS**</a> | **Cloud Architect**<br>Migrated legacy system to serverless AWS Fargate + RDS. Solved scaling issues with stateless Multi-AZ design. | `AWS ECS` `Docker` `Flask` `RDS` |
+| <a href="https://github.com/uzairabdullah272004-svg/vgg16-tb-detection-Transfer-Learning" target="_blank">** VGG16 TB Detection**</a> | **AI Engineer**<br>High-performance medical image classifier (98.53% acc) using Transfer Learning and Float16 Mixed Precision. | `Python` `TensorFlow` `CNN` `VGG16` |
+| <a href="https://github.com/uzairabdullah272004-svg/opencv-omr-retrospective" target="_blank">** OMR Grader (Case Study)**</a> | **Engineer**<br>A retrospective on why "Rule-Based" Computer Vision failed in production, leading to my transition to Deep Learning. | `OpenCV` `Python` `Logic` |
 
 ### 💻 Full Stack & Fundamentals
 | Project | Role | Tech Stack |
 | :--- | :--- | :--- |
-| <a href="https://github.com/uzairabdullah272004-svg/blood-donation-system" target="_blank">**🩸 Blood Donation System**</a> | **Full Stack Dev**<br>Complete platform connecting donors/hospitals with real-time inventory and normalized SQL schema. | `Node.js` `PostgreSQL` `Express` |
-| <a href="https://github.com/uzairabdullah272004-svg/cpp-snake-raylib" target="_blank">**🐍 Snake Mania**</a> | **C++ Developer**<br>Performance-optimized game loop demonstrating memory management and object lifecycles. | `C++` `Raylib` `OOP` |
+| <a href="https://github.com/uzairabdullah272004-svg/blood-donation-system" target="_blank">** Blood Donation System**</a> | **Full Stack Dev**<br>Complete platform connecting donors/hospitals with real-time inventory and normalized SQL schema. | `Node.js` `PostgreSQL` `Express` |
+| <a href="https://github.com/uzairabdullah272004-svg/cpp-snake-raylib" target="_blank">** Snake Mania**</a> | **C++ Developer**<br>Performance-optimized game loop demonstrating memory management and object lifecycles. | `C++` `Raylib` `OOP` |
 
 ---
 
