@@ -37,7 +37,7 @@
 | Project | Role | Tech Stack |
 | :--- | :--- | :--- |
 | <a href="https://github.com/uzairabdullah272004-svg/hostel-management-aws" target="_blank">**☁️ Cloud-Native HMS**</a> | **Cloud Architect**<br>Migrated legacy system to serverless AWS Fargate + RDS. Solved scaling issues with stateless Multi-AZ design. | `AWS ECS` `Docker` `Flask` `RDS` |
-| <a href="https://github.com/uzairabdullah272004-svg/vgg16-tb-detection" target="_blank">**🩺 VGG16 TB Detection**</a> | **AI Engineer**<br>High-performance medical image classifier (98.53% acc) using Transfer Learning and Float16 Mixed Precision. | `Python` `TensorFlow` `CNN` `VGG16` |
+| <a href="https://github.com/uzairabdullah272004-svg/vgg16-tb-detection-Transfer-Learning" target="_blank">**🩺 VGG16 TB Detection**</a> | **AI Engineer**<br>High-performance medical image classifier (98.53% acc) using Transfer Learning and Float16 Mixed Precision. | `Python` `TensorFlow` `CNN` `VGG16` |
 | <a href="https://github.com/uzairabdullah272004-svg/opencv-omr-retrospective" target="_blank">**⭕ OMR Grader (Case Study)**</a> | **Engineer**<br>A retrospective on why "Rule-Based" Computer Vision failed in production, leading to my transition to Deep Learning. | `OpenCV` `Python` `Logic` |
 
 ### 💻 Full Stack & Fundamentals
