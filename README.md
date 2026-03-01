@@ -45,6 +45,7 @@
 | :--- | :--- | :--- |
 | <a href="https://github.com/uzairabdullah272004-svg/blood-donation-system" target="_blank"> Blood Donation System</a> | Full Stack Dev<br>Complete platform connecting donors/hospitals with real-time inventory and normalized SQL schema. | `Node.js` `PostgreSQL` `Express` |
 | <a href="https://github.com/uzairabdullah272004-svg/cpp-snake-raylib" target="_blank"> Snake Mania</a> | C++ Developer<br>Performance-optimized game loop demonstrating memory management and object lifecycles. | `C++` `Raylib` `OOP` |
+| <a href="https://github.com/uzairabdullah272004-svg/cpp-library-system" target="_blank"> Library Management System</a> | C++ Developer<br>Console-based system demonstrating OOP principles, the Singleton Design Pattern, and JSON data persistence. | `C++` `OOP` `JSON` `Patterns` |
 
 ---
 
